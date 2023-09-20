@@ -102,7 +102,7 @@ The authentication and remote backup services may involve service providers deli
 The authentication/registration and backup services used have obtained ISO 27001, 27017, 27018, and SOC 1, 2, and 3 certifications.
 
 
-7. La politique de l’application en matière de cookies et traceurs
+7.    Application's Policy on Cookies and Trackers
 
 The application does not use cookies and trackers.
 
